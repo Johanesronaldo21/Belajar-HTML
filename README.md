@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <head>Pendapat tentang</head>
+  <title>Pendapat tentang</title>
 	<meta charset="utf-8">
 	<link rel="icon" type="img/jpg" href="https://chaibisket.com/wp-content/uploads/2018/06/PUDG.jpg">
 	</head>	
